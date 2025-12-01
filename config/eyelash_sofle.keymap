@@ -29,7 +29,7 @@
 &soft_off { hold-time-ms = <2000>; };
 
 &lt {
-    flavor = "tap-unless-interrupted";
+    flavor = "hold-preferred";
     tapping-term-ms = <1000>;
 };
 
