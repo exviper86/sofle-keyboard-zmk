@@ -16,6 +16,6 @@ The GIF animations on the right-hand keyboard screen have been removed, which wi
 ---
 
 # Sofle Keymap
-<img width="1004" height="1997" alt="image" src="https://github.com/user-attachments/assets/e96a967c-50e7-453f-8ba6-d0a265de2a26" />
+<img width="1004" height="1997" alt="image" src="keymap-drawer/eyelash_sofle.svg" />
 
 
