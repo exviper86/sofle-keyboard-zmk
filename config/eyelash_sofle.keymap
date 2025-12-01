@@ -28,12 +28,9 @@
 
 &soft_off { hold-time-ms = <2000>; };
 
-flavor = "
-
-hold-preferred {
-    ";};
-
-/
+&lt {
+    flavor = "hold-preferred";
+};
 
     combos {
         compatible = "zmk,combos";
