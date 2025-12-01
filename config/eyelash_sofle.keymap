@@ -28,9 +28,13 @@
 
 &soft_off { hold-time-ms = <2000>; };
 
-&lt { tapping-term-ms = <1000>; };
+flavor = "
 
-/ {
+hold-preferred {
+    ";};
+
+/
+
     combos {
         compatible = "zmk,combos";
 
