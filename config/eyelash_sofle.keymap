@@ -92,7 +92,3 @@
         };
     };
 };
-
-&rgb_underglow {
-    idle-timeout-ms = <0>;
-};
